@@ -1,0 +1,12 @@
+[ 2017-06-19T21:37:13+08:00 ] 127.0.0.1 /shop2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015502s ]
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\xampp\htdocs\shop2\Home\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant ture - assumed 'ture' D:\xampp\htdocs\shop2\Home\Conf\config.php ç¬¬ 9 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+

@@ -1,0 +1,1722 @@
+[ 2017-05-12T12:12:13+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T12:12:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /shop2/Public/thumb/59103df8a2958.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T12:37:55+08:00 ] 127.0.0.1 /animated_favicon.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Animated_favicon
+
+[ 2017-05-12T12:38:56+08:00 ] 127.0.0.1 /admincat/catelist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Admincat
+
+[ 2017-05-12T15:14:11+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:11+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:11+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:11+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:11+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T15:14:11+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:13+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:19+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:26+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:28+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:35+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/16_thumb_G_1241968949103.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:14:38+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:33:54+08:00 ] 127.0.0.1 /shop2/Public/images/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:25+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:28+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/16_thumb_G_1241968949103.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:30+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:30+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:30+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/14_thumb_G_1241968492116.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:32+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/5_thumb_G_1241422518886.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T15:34:32+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:05+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:06+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:06+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:06+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:06+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:12+08:00 ] 127.0.0.1 /shop2/Public/images/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:19+08:00 ] 127.0.0.1 /shop2/Public/images/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T17:59:31+08:00 ] 127.0.0.1 /shop2/Public/images/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:42+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:01:58+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:03:35+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:03:35+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:03:35+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:03:35+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:03:35+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T18:03:35+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T18:03:40+08:00 ] 127.0.0.1 /goods.php-id=13.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Goods.php-id=13
+
+[ 2017-05-12T18:03:46+08:00 ] 127.0.0.1 /goods.php-id=13.htm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Goods.php-id=13
+
+[ 2017-05-12T18:03:50+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/5_thumb_G_1241422518886.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:03:50+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:05:50+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:05:50+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:05:50+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T18:05:50+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:05:50+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:05:50+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T18:07:01+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:01+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:01+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:01+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:01+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T18:07:01+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T18:07:44+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:44+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T18:07:44+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:44+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:44+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:07:44+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T18:09:02+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:03+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.006000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:09:47+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:23+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:10:52+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/59152af8de7e0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:11:07+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:12:29+08:00 ] 127.0.0.1 /shop2/Public/images/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T18:59:04+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T19:24:53+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T19:24:53+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T19:24:53+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T19:24:53+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T19:24:53+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T19:24:53+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T22:43:57+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-05-12T22:43:57+08:00 ] 127.0.0.1 /shop2/Public/up/thumb/591020cf0ce5c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T22:43:57+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T22:43:57+08:00 ] 127.0.0.1 /shop2/Public/images/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T22:43:57+08:00 ] 127.0.0.1 /shop2/Public/thumb/5915c76b0163b.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Shop2
+
+[ 2017-05-12T22:43:57+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-05-12T23:26:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
